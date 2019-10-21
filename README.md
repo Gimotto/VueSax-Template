@@ -1,13 +1,7 @@
 # saxvue
 
-> My super-excellent Nuxt.js project
-> import this for integrate Vuesax 
-``` bash
-# import vuesax
-import 'vuesax/dist/vuesax.css'
-Vue.use(Vuesax)
-import 'material-icons/iconfont/material-icons.css'
-```
+> Nuxt.js + Vuesax
+
 
 ## Build Setup
 

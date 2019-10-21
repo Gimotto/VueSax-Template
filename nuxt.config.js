@@ -1,4 +1,3 @@
-
 export default {
   mode: 'spa',
   /*
@@ -28,6 +27,7 @@ export default {
   ** Plugins to load before mounting the App
   */
   plugins: [
+    '@/plugins/vuesax'
   ],
   /*
   ** Nuxt.js dev-modules
